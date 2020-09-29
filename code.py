@@ -245,4 +245,4 @@ async def on_message(message):
         await channel.send("**Waiting channel: `" + str(var0) + "`\nNeeded role for ?voice: `" + str(var1) + "`**", delete_after = 60)
 
             
-client.run("NzU4MTM2NDcwODQxNDU4Njg4.X2qjnA.HFi8VlFiA7eMw07Rq-FwqKHNEM0")
+client.run("NzU4MTk2NDk4NDkxMTEzNDgy.X2rbgw.lPQMf5r4GPUs57OXWw8BaZ2ti2w")
